@@ -3,13 +3,10 @@
 
 LG **Arrowsmith**
 
-
-
  >*"To live a life with no regrets"* - Anne With An E
 
 ![annewithane](https://64.media.tumblr.com/38fa9b5216477eb6b9dfc215fab2ace6/882779b1ff4b2485-8b/s540x810/403906b46764cde32ab6e83075a3df1f0f732459.pnj)
 ![annewithane](https://64.media.tumblr.com/0bc407c834a1d9559be10d6ea5af2219/e297a64213eb837c-2d/s540x810/470303b50b117fe5d4da46a9231e68f8de1381ee.pnj)
-
 
 >*"At least I'm trying"*
 
