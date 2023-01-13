@@ -15,12 +15,27 @@ LG **Arrowsmith**
 ![taylorswift](https://64.media.tumblr.com/8801ba10f41ad4026567fb9dc60d6c8e/306fb305afa94638-66/s540x810/dce5f192d139d2612ab1465daca13fe4bdfd213b.jpg)
 
 ## Movies
-|   Romance/Rom-Com   |   Pyschological Thriller   |         Movie Series        | 
-|---------------------|----------------------------|-----------------------------|
-|   Five Feet Apart   |    The Invisible Guest     |         Harry Potter        |
-|    Me Before You    |         Forgotten          |          Maze Runner        |
-|    Legally Blonde   |          Get Out           |   The Chronicles of Narnia  |
+### *1. Romance/Rom-Com* 
+a. Five Feet Apart
 
+b. Me Before You
+
+c. Legally Blonde 
+
+### *2. Pyschological Thriller*
+a. The Invisible Guest
+
+b. Forgotten
+
+c. Get Out
+
+
+### *3. Movie Series*
+a. Harry Potter
+
+b. Maze Runner
+
+c. The Chronicles of Narnia
 
 ## Playlists 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hS4akr_fcZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -36,4 +51,3 @@ LG **Arrowsmith**
 7. [Estranghero](https://open.spotify.com/track/6HVT2c1ZZdhH1nGFb4AxUJ?si=dc3942aa197a4e39) - Cup of Joe
 8. [Mr. Perfectly Fine](https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg?si=a7f9b4f06c944b6c) - Taylor Swift
 9. [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs?si=67d522dc13304630) - Calein
-10.[Astronomy](https://open.spotify.com/track/2JN3ugW1cEahbYw0I5mw5U?si=2363ba6a34bb4ff3) - Conan Gray
