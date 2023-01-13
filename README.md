@@ -15,8 +15,9 @@ LG **Arrowsmith**
 ![taylorswift](https://64.media.tumblr.com/8801ba10f41ad4026567fb9dc60d6c8e/306fb305afa94638-66/s540x810/dce5f192d139d2612ab1465daca13fe4bdfd213b.jpg)
 
 ## Movies
-![image](https://user-images.githubusercontent.com/122426705/212240029-92bdad98-f7c6-41be-a902-24df9597b62c.png))
+
 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tGv7CUutzqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4UzOQu5dRuYLRQDMhPkrVE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
