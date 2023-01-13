@@ -3,6 +3,7 @@
 
 LG **Arrowsmith**
 
+## Quotes
  >*"To live a life with no regrets"* - Anne With An E
 
 ![annewithane](https://64.media.tumblr.com/38fa9b5216477eb6b9dfc215fab2ace6/882779b1ff4b2485-8b/s540x810/403906b46764cde32ab6e83075a3df1f0f732459.pnj)
@@ -12,3 +13,7 @@ LG **Arrowsmith**
 
 ![taylorswift](https://64.media.tumblr.com/3ea82798f55fb5966e8dae3c4cbf62df/5164661fc540c917-7c/s540x810/8a9f9cac1355e0ec225240240f75fdf4ac5bc5e0.jpg)
 ![taylorswift](https://64.media.tumblr.com/8801ba10f41ad4026567fb9dc60d6c8e/306fb305afa94638-66/s540x810/dce5f192d139d2612ab1465daca13fe4bdfd213b.jpg)
+
+## Movies
+
+![tangled](https://i.pinimg.com/236x/d1/75/7d/d1757d422d0683675effbfdabe862ba0.jpg) ![anne](https://i.pinimg.com/236x/25/ec/da/25ecda365dc27b2c838403a20673f6eb.jpg) ![ffa](https://i.pinimg.com/236x/fa/db/31/fadb31b3fbd0b48262753c163edc02b7.jpg)
