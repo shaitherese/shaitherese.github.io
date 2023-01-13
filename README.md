@@ -27,14 +27,13 @@ LG **Arrowsmith**
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3RNjUvCQCeafp1xCovSsjJ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Current Favorite Songs <3 
-     1. [You're on your own kid - Taylor Swift](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t?si=d7128fbd7bc34aa0)
-     2. [Cornelia Street - Taylor Swift](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a?si=84990314d72c4b3c)
-     3. [Afterglow - Taylor Swift](https://open.spotify.com/track/1SymEzIT3H8UZfibCs3TYi?si=09a5ca6b380c4de0)
-     4. [Everything - The Black Skirts](https://open.spotify.com/track/19Hg1UCZaCdpHB37L7x63X?si=a8abd6c687a1481a)
-     5. [About you - The 1975](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9?si=3c334b37f2e14838)
-     6. [Old Love - Yuji, Putri Dahlia](https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH?si=ccee83fbb8e1474f)
-     7. [Estranghero - Cup of Joe](https://open.spotify.com/track/6HVT2c1ZZdhH1nGFb4AxUJ?si=dc3942aa197a4e39)
-     8. [Mr. Perfectly Fine - Taylor Swift](https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg?si=a7f9b4f06c944b6c)
-     9. [Umaasa - Calein](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs?si=67d522dc13304630)
-     10.[Astronomy - Conan Gray](https://open.spotify.com/track/2JN3ugW1cEahbYw0I5mw5U?si=2363ba6a34bb4ff3)
-  
+1. [You're on your own kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t?si=d7128fbd7bc34aa0) - Taylor Swift
+2. [Cornelia Street](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a?si=84990314d72c4b3c) - Taylor Swift
+3. [Afterglow](https://open.spotify.com/track/1SymEzIT3H8UZfibCs3TYi?si=09a5ca6b380c4de0) - Taylor Swift
+4. [Everything](https://open.spotify.com/track/19Hg1UCZaCdpHB37L7x63X?si=a8abd6c687a1481a) - The Black Skirts
+5. [About you](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9?si=3c334b37f2e14838) - The 1975
+6. [Old Love](https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH?si=ccee83fbb8e1474f) - Yuji, Putri Dahlia
+7. [Estranghero](https://open.spotify.com/track/6HVT2c1ZZdhH1nGFb4AxUJ?si=dc3942aa197a4e39) - Cup of Joe
+8. [Mr. Perfectly Fine](https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg?si=a7f9b4f06c944b6c) - Taylor Swift
+9. [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs?si=67d522dc13304630) - Calein
+10.[Astronomy](https://open.spotify.com/track/2JN3ugW1cEahbYw0I5mw5U?si=2363ba6a34bb4ff3) - Conan Gray
