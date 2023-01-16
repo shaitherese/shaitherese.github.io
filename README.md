@@ -15,6 +15,7 @@ LG **Arrowsmith**
 ![taylorswift](https://64.media.tumblr.com/8801ba10f41ad4026567fb9dc60d6c8e/306fb305afa94638-66/s540x810/dce5f192d139d2612ab1465daca13fe4bdfd213b.jpg)
 
 ## Movies
+![movie](https://i.pinimg.com/564x/e5/9a/ff/e59afffab97c822d319f0a92a4b1b2f1.jpg)
 ### *1. Romance/Rom-Com* 
 a. Five Feet Apart
 
@@ -42,7 +43,8 @@ c. The Chronicles of Narnia
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3RNjUvCQCeafp1xCovSsjJ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5L28Cayq8y22Vi1UfZ5xY3?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-## Current Favorite Songs <3 
+## Current Favorite Songs <3
+![aesthetic](https://i.pinimg.com/564x/ca/89/23/ca89235ce1f6e3cbf640921ce19c5db1.jpg)
 1. [You're on your own kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t?si=d7128fbd7bc34aa0) - Taylor Swift
 2. [Cornelia Street](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a?si=84990314d72c4b3c) - Taylor Swift
 3. [Afterglow](https://open.spotify.com/track/1SymEzIT3H8UZfibCs3TYi?si=09a5ca6b380c4de0) - Taylor Swift
@@ -52,3 +54,4 @@ c. The Chronicles of Narnia
 7. [Estranghero](https://open.spotify.com/track/6HVT2c1ZZdhH1nGFb4AxUJ?si=dc3942aa197a4e39) - Cup of Joe
 8. [Mr. Perfectly Fine](https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg?si=a7f9b4f06c944b6c) - Taylor Swift
 9. [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs?si=67d522dc13304630) - Calein
+
