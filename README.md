@@ -39,12 +39,12 @@ b. Maze Runner
 c. The Chronicles of Narnia
 
 ## Playlists 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/06hIApf0a28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3RNjUvCQCeafp1xCovSsjJ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvpWIMSPGS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe style="border-radius:12px"
+src="https://open.spotify.com/embed/playlist/3RNjUvCQCeafp1xCovSsjJ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Current Favorite Songs <3
 ![aesthetic](https://i.pinimg.com/564x/ca/89/23/ca89235ce1f6e3cbf640921ce19c5db1.jpg)
-1. [You're on your own kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t?si=d7128fbd7bc34aa0) - Taylor Swift
+1. [Dulo ng Hangganan](https://open.spotify.com/track/7h4W9blGxYCkKJ3dxPZ84j?si=f9deafd3c3a546c0) - IV Of Spades
 2. [Cornelia Street](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a?si=84990314d72c4b3c) - Taylor Swift
 3. [Afterglow](https://open.spotify.com/track/1SymEzIT3H8UZfibCs3TYi?si=09a5ca6b380c4de0) - Taylor Swift
 4. [Everything](https://open.spotify.com/track/19Hg1UCZaCdpHB37L7x63X?si=a8abd6c687a1481a) - The Black Skirts
