@@ -41,7 +41,6 @@ c. The Chronicles of Narnia
 ## Playlists 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/06hIApf0a28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3RNjUvCQCeafp1xCovSsjJ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5L28Cayq8y22Vi1UfZ5xY3?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Current Favorite Songs <3
 ![aesthetic](https://i.pinimg.com/564x/ca/89/23/ca89235ce1f6e3cbf640921ce19c5db1.jpg)
